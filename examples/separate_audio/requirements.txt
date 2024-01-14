@@ -2,3 +2,4 @@ opyrator
 # apt-get install ffmpeg
 numpy==1.18.5
 spleeter
+streamlit>=1.30.0 # not directly required, pinned by Snyk to avoid a vulnerability
