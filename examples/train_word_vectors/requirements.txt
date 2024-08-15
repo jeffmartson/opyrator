@@ -1,3 +1,4 @@
 opyrator
 fasttext
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+streamlit>=1.37.0 # not directly required, pinned by Snyk to avoid a vulnerability
