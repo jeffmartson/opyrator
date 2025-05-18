@@ -2,3 +2,4 @@ opyrator
 transformers
 torch
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
